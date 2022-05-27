@@ -1,0 +1,15 @@
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.csproj.AssemblyReference.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.AssemblyInfoInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.AssemblyInfo.cs
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.csproj.CoreCompileInputs.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\bin\Debug\net6.0\task01_findAllEvenInArray.exe
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\bin\Debug\net6.0\task01_findAllEvenInArray.deps.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\bin\Debug\net6.0\task01_findAllEvenInArray.runtimeconfig.json
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\bin\Debug\net6.0\task01_findAllEvenInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\bin\Debug\net6.0\task01_findAllEvenInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\refint\task01_findAllEvenInArray.dll
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.pdb
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\task01_findAllEvenInArray.genruntimeconfig.cache
+C:\Users\S&T\Desktop\Tanya GB\homework C# 2\HW seminar5\task01_findAllEvenInArray\obj\Debug\net6.0\ref\task01_findAllEvenInArray.dll
